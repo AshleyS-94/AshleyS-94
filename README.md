@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshleyS-94
-- 👀 I’m interested in Data Analytics / Software Development.
+- 👀 I’m interested in Data Analytics / Data Scientist / Software Engineering.
 - 🌱 I’m currently learning Data Science and more in deep learning of Python. 
 - 💞️ I’m looking to collaborate with anyone in the tech field who is willing to offer advice and tips. 
 - 📫 How to reach me - Please reach out to me on Linkedin. https://www.linkedin.com/in/ashley-simmons-lp/

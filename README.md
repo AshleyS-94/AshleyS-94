@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics / Data Scientist / Software Engineering.
 - 🌱 I’m currently learning Data Science and more in deep learning of Python. 
 - 💞️ I’m looking to collaborate with anyone in the tech field who is willing to offer advice and tips. 
-- 📫 How to reach me - Please reach out to me on [LinkedIn](https://www.linkedin.com/in/ashley-simmons-lp/).
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ashley-simmons-lp/).
 
 <!---
 AshleyS-94/AshleyS-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
